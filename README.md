@@ -54,4 +54,4 @@ Our model is unfair. The model's RMSE for recipes with more than 100 minutes is 
 
 The test statistic that we chose was the differnece in the root mean squared error between the two groups. 
 
-Our significance level was at alpha = 0.05 and the resulting p-value was 0.001. Thus, since our p-value(0.001)  is less than our alpha (0.05), we reject the null hypothesis. Thus, it it is very likely that there is a significant difference in RMSE between recipes with more than 100 minutes and those with 100 minutes or less. As a result, we conclude that our model is likely to be unfair and biased against recipes that take longer than 100 minutes to cook.
+Our significance level was at alpha = 0.05 and the resulting p-value was 0.002. Thus, since our p-value(0.001)  is less than our alpha (0.05), we reject the null hypothesis. Thus, it it is very likely that there is a significant difference in RMSE between recipes with more than 100 minutes and those with 100 minutes or less. As a result, we conclude that our model is likely to be unfair and biased against recipes that take longer than 100 minutes to cook.
